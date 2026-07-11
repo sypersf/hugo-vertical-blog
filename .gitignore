@@ -5,3 +5,4 @@ winsw.*
 *.bat  
 *.py  
 themes/  
+hugo_local.toml  
