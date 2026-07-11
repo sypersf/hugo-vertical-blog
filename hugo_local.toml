@@ -1,0 +1,8 @@
+baseURL = "https://blog.weamoy.net/"
+languageCode = "zh-cn"
+title = "MnGk's Notes"
+theme = "PaperMod"
+
+[params]
+homeInfoParams.Title = "MnGk's Notes"
+homeInfoParams.Content = "旅行 · 阅读 · 思考"
